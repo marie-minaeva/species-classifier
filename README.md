@@ -1,2 +1,2 @@
 # species-indicator
-determine the butterfly species from a photo
+determine the flower species from a photo
